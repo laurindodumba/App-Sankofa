@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648887087227",
+    "project_id": "app-sankofa",
+    "storage_bucket": "app-sankofa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648887087227:android:528b83b801ccc59471b2de",
+        "android_client_info": {
+          "package_name": "com.example.sankofa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5jbH8PSp-kWpQoZqVgicB37esV365bgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
